@@ -106,7 +106,7 @@
 
 
 
-![image-20251221145442163](C:\Users\BskyRui\AppData\Roaming\Typora\typora-user-images\image-20251221145442163.png)
+![image-20251221145442163](./image-20251221145442163.png)
 
 
 
